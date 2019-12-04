@@ -1,6 +1,6 @@
 {
-  "name": "bool",
-  "version": "1.0.0",
+  "name": "@__path/bool",
+  "version": "1.4.0",
   "description": "js polyfill library that does type coercion for json data out of the box created out of frustration",
   "main": "index.js",
   "scripts": {
